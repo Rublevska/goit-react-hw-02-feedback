@@ -28,4 +28,10 @@ p {
   margin: 0;
 }
 
+button:active, button:focus {
+  outline: none;
+}
+button::-moz-focus-inner {
+  border: 0;
+}
 `;
