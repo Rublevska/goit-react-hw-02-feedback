@@ -1,8 +1,9 @@
 export const theme = {
   colors: {
-    mainBgColor: '#e7ecf2',
+    mainBgColor: '#f4f7f9',
     mainTextColor: '#1d2b38',
     bottomColor: '#ffffff',
+    bottomAccentColor: '#e1e5f1',
     borderColor: '#b6c8da',
   },
 
